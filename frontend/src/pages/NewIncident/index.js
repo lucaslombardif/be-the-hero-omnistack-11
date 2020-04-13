@@ -48,7 +48,7 @@ export default function NewIncident() {
             isso.
           </p>
 
-          <Link to="/" className="back-link">
+          <Link to="/profile" className="back-link">
             <FiArrowLeft size={16} color="#e02041" />
             Voltar para home
           </Link>
